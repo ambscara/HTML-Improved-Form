@@ -73,3 +73,7 @@ label {
 .required-field {
     color: red;
 }
+.required {
+    color: red;
+    margin-left: 5px;
+}
